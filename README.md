@@ -1,6 +1,6 @@
 # AI-Health-Center
 
-link: https://ai-health-center.herokuapp.com/
+link: https://health-online.herokuapp.com/
 
 <hr>
 
@@ -17,7 +17,10 @@ link: https://ai-health-center.herokuapp.com/
 </ul>
 
 <hr>
+![image3](https://github.com/Rajatkhatri7/health-online/blob/master/imagessss/FireShot%20Capture%20018%20-%20Pneumonia%20-%20health-online.herokuapp.com.png)
 
+![image1](https://github.com/Rajatkhatri7/health-online/blob/master/imagessss/FireShot%20Capture%20014%20-%20Pneumonia%20-%20health-online.herokuapp.com.png)
+![image2](https://github.com/Rajatkhatri7/health-online/blob/master/imagessss/FireShot%20Capture%20017%20-%20Pneumonia%20-%20health-online.herokuapp.com.png)
 <h3> Various datasets used for model development : </h3>
 <ul>
 <li><p><b>Cancer</b> : cancer.csv [In the repository]</p></li>
@@ -29,3 +32,4 @@ link: https://ai-health-center.herokuapp.com/
 <li><p><b>Malaria : </b> https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria </p></li>
 <li><p><b>Pneumonia: </b> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia </p></li>
 </ul>
+
