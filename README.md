@@ -17,8 +17,8 @@ link: https://health-online.herokuapp.com/
 </ul>
 
 <hr>
-![image3](https://github.com/Rajatkhatri7/health-online/blob/master/imagessss/FireShot%20Capture%20018%20-%20Pneumonia%20-%20health-online.herokuapp.com.png)
 
+![image3](https://github.com/Rajatkhatri7/health-online/blob/master/imagessss/FireShot%20Capture%20018%20-%20Pneumonia%20-%20health-online.herokuapp.com.png)
 ![image1](https://github.com/Rajatkhatri7/health-online/blob/master/imagessss/FireShot%20Capture%20014%20-%20Pneumonia%20-%20health-online.herokuapp.com.png)
 ![image2](https://github.com/Rajatkhatri7/health-online/blob/master/imagessss/FireShot%20Capture%20017%20-%20Pneumonia%20-%20health-online.herokuapp.com.png)
 <h3> Various datasets used for model development : </h3>
